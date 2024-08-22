@@ -1,0 +1,108 @@
+BIG DATA
+
+O big data é um conceito que descreve o complexo conjunto de dados gerados diariamente em nossa sociedade digital. Essa abordagem de análise de informações tem o potencial de revelar insights valiosos e tendências ocultas, permitindo que empresas e organizações tomem decisões informadas e impulsionem o progresso. 
+
+Com o big data, é possível coletar, armazenar e processar uma enorme quantidade de dados de diversas fontes, desde dispositivos conectados à Internet até redes sociais. É uma ferramenta crucial para a tomada de decisões estratégicas e o desenvolvimento de soluções inovadoras em um mundo cada vez mais orientado por dados e pela transformação digital.
+
+A evolução do big data
+Embora o termo “big data” tenha ganhado destaque mais recentemente, o conceito de lidar com grandes volumes de informações remonta à década de 1960.
+
+Inicialmente, os sistemas de gerenciamento de banco de dados foram desenvolvidos para lidar com dados estruturados, mas à medida que a quantidade de informações não estruturadas, como textos e mídia digital, aumentou exponencialmente, a necessidade de novas abordagens se tornou evidente.
+
+Na década de 1990, com o surgimento da internet, houve um influxo massivo de dados gerados por websites, registros de servidores, e-mails e muito mais.
+
+Isso levou ao desenvolvimento de tecnologias como o Hadoop, um framework de processamento distribuído, que permitiu o armazenamento e análise eficazes de grandes volumes de dados.
+
+À medida que as redes sociais, dispositivos móveis e sensores se tornaram mais presentes no mundo digital, a quantidade de informações geradas cresceu exponencialmente.
+
+O surgimento de empresas de tecnologia como Google, Facebook e Amazon e da tecnologia do Machine Learning trouxeram uma nova dimensão ao big data, pois começaram a usar análises avançadas para personalizar serviços e publicidade.Nos dias atuais, o big data está presente em vários tipos de indústrias, desde saúde e finanças até manufatura e transporte.
+
+O boom da inteligência artificial permitiu que as empresas extraiam insights valiosos dos dados, ajudando na tomada de decisões estratégicas e no desenvolvimento de produtos e serviços mais eficazes.
+
+A evolução do big data continua, com a computação em nuvem, a Internet das Coisas e a segurança de dados desempenhando papéis fundamentais em sua expansão e refinamento.
+
+LEIA MAIS: O que é Inteligência Artificial?
+
+Os três V’s do big data
+Volume
+Com a proliferação de dispositivos conectados à Internet, redes sociais e outras fontes, os volumes de dados aumentaram exponencialmente. O big data lida com conjuntos de informações tão grandes que são muitas vezes impossíveis de serem gerenciados com ferramentas tradicionais de processamento de dados.
+
+Velocidade
+Em um mundo de tempo real, a velocidade com que os dados são gerados e precisam ser analisados é crítica. Isso se aplica a aplicações que necessitam de análises em tempo real, como detecção de fraudes, monitoramento de redes sociais e previsão do mercado financeiro. O big data deve ser capaz de lidar com a ingestão, processamento e análise de dados em tempo real ou próximo a ele.
+
+Variedade
+Antigamente, a maioria dos dados era estruturada, como dados em bancos de dados relacionais. No entanto, hoje, os dados vêm em formatos variados, incluindo texto não estruturado, áudio, vídeo, imagens, dados de sensores e muito mais. O big data precisa ser capaz de lidar com essa diversidade e extrair informações úteis de dados em diferentes formatos.
+
+Além disso, não se trata mais apenas de um tipo de informação que gera dados, como era evidente em informações sobre ativos financeiros e variação de preço de ações. Saúde, educação, entretenimento, comportamento, negócios: tudo gera dados.
+
+Veracidade
+Para serem utilizados, dados devem ser confiáveis e passíveis de confirmação.
+
+A partir dessa concepção, foram desenvolvidos sistemas de alta capacidade de processamento e velocidade inimagináveis, capazes de coletar, agregar, correlacionar e interpretar esses dados brutos, a fim de gerarem informações gerenciais e indicativos claros do que pode ocorrer no futuro. Não se trata de intuição.
+
+As tecnologias modernas de data mining (mineração de dados) utilizam algoritmos avançados, técnicas estatísticas, análises combinatórias, além de uma capacidade de relacionar uma montanha de dados em tempo recorde, em uma perspectiva analítica impossível de ser realizada pelos olhos humanos.
+
+Como funciona e para que serve o big data?
+Em essência, o big data serve como uma ferramenta poderosa para coletar, processar e extrair informações valiosas a partir de dados em grande escala. Sua versatilidade e aplicabilidade em diversas áreas têm o potencial de otimizar operações, economizar recursos e melhorar a qualidade de vida das pessoas. 
+
+O funcionamento do Big Data pode ser resumido em uma série de etapas:
+
+Coleta de dados: O primeiro passo é a coleta de informações. Os dados podem ser provenientes de diversas fontes, incluindo dispositivos conectados à Internet, mídias sociais, sensores, transações, registros de servidores e muito mais. Essas fontes geram enormes volumes de dados, que podem ser estruturados, semiestruturados ou não estruturados.
+Armazenamento: Uma vez coletados, os dados precisam ser armazenados de maneira eficiente. Isso geralmente envolve o uso de sistemas de armazenamento distribuído, como bancos de dados NoSQL ou sistemas de arquivo distribuídos. Essas soluções são projetadas para lidar com grandes volumes de informações e garantir que os dados estejam disponíveis quando necessário.
+Processamento: O processamento é o coração do sistema do big data. Aqui, os dados são organizados, limpos e preparados para análise. Isso pode envolver a transformação de dados brutos em um formato mais adequado para análise, como a conversão de texto não estruturado em dados estruturados ou a agregação de dados de várias fontes.
+Análise de dados: Uma vez que os dados são processados, a análise começa. O big data faz uso de uma variedade de técnicas de análise, incluindo estatísticas, aprendizado de máquina e inteligência artificial, para identificar tendências, padrões e insights ocultos nos dados. Essa análise permite tomar decisões informadas com base nos dados disponíveis.
+Leia mais: Quais os benefícios de um CRM?
+
+Desafios do big data
+Um dos principais desafios para as organizações que lidam com Big Data é a integração de dados provenientes de diversas fontes e em diferentes formatos. Com a proliferação de fontes de dados, como dispositivos IoT, redes sociais e registros transacionais, surge a necessidade de consolidar esses dados de maneira coesa.
+
+A heterogeneidade dos dados, tanto em termos de estrutura quanto de formato, torna esse processo ainda mais desafiador. As empresas precisam investir em estratégias e ferramentas eficazes de integração de dados para garantir que possam aproveitar ao máximo a diversidade de informações disponíveis.
+
+À medida que as organizações coletam e armazenam grandes volumes de dados, surge uma preocupação crescente em torno da privacidade e segurança dessas informações.
+
+Os dados sensíveis dos clientes, como informações pessoais e financeiras, estão cada vez mais sujeitos a violações de segurança e uso indevido. Além disso, as regulamentações de proteção de dados, como o GDPR na União Europeia e a LGPD no Brasil, impõem requisitos rigorosos para o tratamento adequado e a proteção dos dados. 
+
+Outro desafio enfrentado pelas organizações é a capacidade de extrair insights significativos dos dados e utilizá-los de forma eficaz na tomada de decisões. Com a quantidade crescente de dados disponíveis, surge a necessidade de ferramentas e técnicas avançadas de análise de dados para identificar padrões e tendências ocultas nos dados.
+
+Além disso, é fundamental que as organizações desenvolvam uma cultura de tomada de decisões orientada por dados, garantindo que os insights gerados sejam realmente utilizados para informar estratégias e iniciativas de negócios.
+
+Vantagens de usar Big Data nas empresas
+Conheça melhor seu cliente e determine a causa e raiz das falhas em processos internos em tempo real;
+Elabore ações de Marketing Digital mais assertivas e reduza custos com ações publicitárias ineficientes;
+Melhore a experiência do seu cliente entendendo seus comportamentos, experiências e preferências;
+Desenvolva novos produtos com insights gerados a partir dos dados armazenados;
+Identifique oportunidades de negócios, minimize riscos e tome decisões mais assertivas através de insights detalhados em tempo real.
+Boas práticas de Big Data
+Defina objetivos claros e mensuráveis: Antes de iniciar qualquer projeto de Big Data, é essencial definir objetivos claros e mensuráveis que orientem as atividades de análise de dados. Isso envolve entender os desafios de negócios específicos que a organização enfrenta e identificar como os dados podem ser usados para abordar esses desafios. Definir metas tangíveis permite que as equipes de análise de dados concentrem seus esforços nos insights mais relevantes para o negócio.
+Garanta a integridade dos dados: A qualidade e a integridade dos dados são fundamentais para o sucesso de qualquer iniciativa de Big Data. Dados imprecisos, incompletos ou inconsistentes podem levar a análises e decisões equivocadas. Portanto, é importante implementar medidas de controle de qualidade de dados, incluindo a limpeza e a padronização dos dados, a fim de garantir sua precisão e confiabilidade. Além disso, é crucial estabelecer políticas e procedimentos para garantir a segurança e a privacidade dos dados, em conformidade com as regulamentações aplicáveis.
+Cultive uma cultura de análise de dados: Para alcançar o sucesso em Big Data, é essencial cultivar uma cultura organizacional que valorize e promova a análise de dados. Isso envolve capacitar os funcionários em todos os níveis da organização sobre os benefícios e as práticas recomendadas de análise de dados, incentivando a colaboração e o compartilhamento de conhecimento entre as equipes, e reconhecendo o uso eficaz dos dados para informar decisões e impulsionar resultados.
+Adote uma abordagem ágil: É recomendável adotar uma abordagem iterativa e ágil para o desenvolvimento e a implementação de soluções de análise de dados. Isso envolve dividir projetos em etapas menores e mais gerenciáveis, permitindo que as equipes ajustem suas estratégias com base nos insights obtidos ao longo do processo. Essa abordagem flexível permite que as organizações se adaptem às mudanças nas necessidades e nos requisitos à medida que avançam em suas iniciativas de Big Data.
+Principais perguntas sobre Big Data
+Quais são as aplicações do Big Data em diferentes organizações setores?
+O Big Data tem aplicações em praticamente todos os setores, desde a saúde até o varejo. Na saúde, por exemplo, ele pode ser usado para análise de dados genômicos, previsão de epidemias e personalização de tratamentos. No varejo, o Big Data é frequentemente usado para análise de comportamento do consumidor, otimização de cadeias de suprimentos e personalização de ofertas. Em finanças, ele pode ser usado para detecção de fraudes, análise de riscos e previsão de mercado. As aplicações são infinitas e estão em constante evolução à medida que novas tecnologias e técnicas de análise de dados surgem.
+
+Qual a relação entre Big Data, Machine Learning e Inteligência Artificial?
+O Big Data, Machine Learning e Inteligência Artificial estão ligados e muitas vezes são usados em conjunto para extrair insights valiosos. O Big Data fornece a matéria-prima necessária para treinar modelos de Machine Learning e alimentar algoritmos de Inteligência Artificial. Por sua vez, o Machine Learning e a Inteligência Artificial são usados para analisar e interpretar os dados de maneira mais automatizada, identificando padrões, fazendo previsões e tomando decisões inteligentes com base nos dados.
+
+Como o Big Data e o Marketing se conectam?
+No mundo do marketing, o Big Data desempenha um papel fundamental na compreensão do comportamento do consumidor e na personalização das estratégias. As empresas podem usar o Big Data para coletar e analisar uma variedade de dados, incluindo dados de interação do cliente, dados de mídia social, dados de navegação na web e muito mais. Esses insights podem ser usados para segmentar o público-alvo com maior precisão, criar campanhas de marketing mais direcionadas e avaliar o desempenho das iniciativas de marketing em tempo real.
+
+O que é Big Data Analytics?
+Big Data Analytics é o processo de análise e interpretação de grandes volumes de dados para extrair insights significativos. Envolve a utilização de técnicas avançadas de análise de dados, como análise estatística, machine learning e data mining, para identificar padrões, tendências e relações nos dados. O objetivo do Big Data Analytics é transformar dados brutos em informações úteis que possam informar a tomada de decisões e impulsionar o sucesso empresarial.
+
+Casos de sucesso em Big Data
+Spotify
+O Spotify é um serviço de música comercial em streaming criado em 2008, cuja existência está exatamente na análise de uma grande massa de dados. Pelo sucesso do serviço, nem é preciso ser muito investigativo para suspeitar que a quantidade de dados diários que trafega na rede do Spotify é simplesmente monstruosa, certo?
+
+Sim, a líder global em música online cria 600 Gigabytes de dados todos os dias e tem assustadores 28 Petabytes de dados armazenados, espalhados por 4 datacenters ao redor do mundo. Essa é a matéria-prima que sustenta o sucesso do Spotify!
+
+É por meio de bilhões de relatórios de logs gerados pelo armazenamento desses dados que o sistema provê recomendações da próxima música para cada usuário. Ele ainda é capaz de montar playlists para cada cliente, com alto grau de assertividade.
+
+Por fim, dados “real-time” também são usados como ferramenta de interação com o cliente, tal como no início de 2013, em que os dados de “streaming” foram utilizados para prever o vencedor do Grammy Awards. Isso é Big Data! É criar ferramentas de Inteligência Artificial para conhecer cada cliente individualmente e prover suas necessidades de forma singular!
+
+Apple
+Com mais de 50 bilhões de downloads em sua app store, a Apple está mergulhada em um oceano de dados que são analisados para obter insights, os quais resultam em aumento de vendas, maior engajamento de seus clientes, adequação dos produtos e serviços em linha com as necessidades de momento dos consumidores, além de indicativos para realização de ações de marketing digital mais efetivas. 
+
+O modelo de consumo de TI baseado em Software como Serviço (Software as a Service / SaaS) faz do Big Data um recurso possível até mesmo às pequenas e médias empresas. Ao ir para a nuvem, o Big Data ficou muito mais acessível e para o tomador de decisão, basta um painel de controle que o ajude a compreender o que as informações representam.
+
+O big data está revolucionando a maneira com que empresas utilizem seus dados a seu favor. Conte com a Salesforce para ajudar no crescimento do seu negócio com nossas soluções inovadoras!
